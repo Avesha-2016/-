@@ -1,0 +1,41 @@
+#predloj {
+  background: #eedfa4 none repeat scroll 0 0;
+}
+
+.h1_maroon {
+  color: #651315;
+  font-size: 30px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.otstup_bottom {
+  margin-bottom: 30px;
+}
+
+.specpredl {
+  cursor: pointer;
+  display: block;
+  position: relative;
+  width: 100%;
+}
+
+.zag_specpr2 {
+  background: rgba(101, 19, 21, 0.74) none repeat scroll 0 0;
+  bottom: 0;
+  color: #fff;
+  display: block;
+  font-size: 36px;
+  left: 41%;
+  min-height: 50px;
+  padding: 20px;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  text-transform: uppercase;
+  width: 59%;
+}
+
+.img_spec {
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+}
